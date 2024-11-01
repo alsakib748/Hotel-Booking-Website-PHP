@@ -20,7 +20,7 @@ define("USERS_FOLDER", "users/");
 /// Payment Gateway Variable
 define('INDUSTRY_TYPE_ID', 'Retail');
 define('CHANNEL_ID', 'WEB');
-define('CALLBACK_URL', 'https://www.artisan.com/hbwebsite/pay_response.php');
+define('CALLBACK_URL', 'localhost/hbwebsite/pay_response.php');
 
 
 function adminLogin()
